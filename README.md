@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Navneeta<br><br>- 🔭 I’m currently pursuing my B.Tech degree at BIT at the domain Computer Technologist<br>- 📚 I'm currently learning about newer technologies.<br>- ⚡ In my free time I will learn about newer technologies and try to develop newer projects.</p>
+<p align="left">I'm Navneeta<br><br>- 🔭 I have completed  my B.Tech degree at BIT at the domain Computer Technologist<br>- 📚 I'm currently learning about newer technologies.<br>- ⚡ In my free time I will learn about newer technologies and try to develop newer projects.</p>
 
 ###
 
